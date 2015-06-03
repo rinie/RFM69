@@ -58,3 +58,7 @@ http://lowpowerlab.com/blog/2013/06/20/rfm69-library/
 
 ##License
 GPL 3.0. See License.txt file.
+
+##Rinie
+- Merge OOK code from http://members.home.nl/hilcoklaassen/arduino/libraries/RFM69W/
+- see http://members.home.nl/hilcoklaassen/index.html
